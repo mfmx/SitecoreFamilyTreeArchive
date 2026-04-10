@@ -1,0 +1,16 @@
+---
+ID: "{11111111-1111-1111-1111-111111111111}"
+Parent: "{00000000-0000-0000-0000-000000000000}"
+Template: "{AB86861A-6030-46C5-B394-E8F99E8B87DB}"
+Path: /sitecore/templates/Project/FamilyTreeArchive/Page
+DB: master
+SharedFields:
+- Hint: __Icon
+  Value: Office/32x32/family.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - Hint: __Display name
+      Value: Family Tree Archive Page
